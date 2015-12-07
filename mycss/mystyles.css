@@ -15,7 +15,7 @@
     margin:0px auto;
     padding: 50px 0px 50px 0px;
     border-bottom: 1px ridge;
-    min-height:400px;
+    min-height:100px;
 }
 
 /*========================================
@@ -94,7 +94,7 @@ padding: .2em .6em .2em;
 
 vertical-align: middle;
 
-} 
+}
 
 /*================================
 	white color to text
@@ -107,8 +107,8 @@ vertical-align: middle;
 	Icon inside input
 ================================*/
 /* enable absolute positioning */
-.inner-addon { 
-    position: relative; 
+.inner-addon {
+    position: relative;
 }
 
 /* style icon */
