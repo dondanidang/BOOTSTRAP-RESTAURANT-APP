@@ -1,0 +1,21 @@
+{
+  "name": "Daniel restaurant template",
+  "authors": [
+    "Daniel Tiati <dondanidang@gmail.com>"
+  ],
+  "description": "This template was done while mastering my skills on front-end web development",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "restaurant",
+    "template",
+    "Fusion",
+    "Restaurant"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "font-awesome": "~4.4.0"
+  }
+}
